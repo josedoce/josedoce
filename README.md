@@ -4,15 +4,13 @@
 
 <h3> :woman: &nbsp;Sobre mim </h3>
 
-- 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🤔 &nbsp; Sou um desenvolvedor fullstack, tenho 22 anos e sou brasileiro.
 - 🎓 &nbsp; Estudando **NodeJs e PHP** no <a href="link da sua faculdade">por conta própria school</a>.
 - 💼 &nbsp; Ainda não :( Mas tenho me ocupado projetando micro aplicações. :)
 - 🌱 &nbsp; Aprendendo mais sobre **nodejs e php e me aventurando em java**.
 
-<h3> &nbsp;Minhas Skills </h3>
-**Projetos que tenho muito orgulho <3**
-Em breve ><
 
+<h3> &nbsp;Minhas Skills </h3>
 
 **Aplicações e Dados**
 
@@ -52,7 +50,7 @@ Em breve ><
 <br/>
 
 <a href="https://github.com/josedoce">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Josedoce&theme=dracula&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Josedoce&theme=blue-green&show_icons=true" />
 </a>
 
 <br/>
