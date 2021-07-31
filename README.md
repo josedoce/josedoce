@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=josedoce&color=006bed)
 
-<h3> :woman: &nbsp;Sobre mim </h3>
+<h3> 👨🏻‍💻 &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Sou um desenvolvedor fullstack, tenho 22 anos e sou brasileiro.
 - 🎓 &nbsp; Estudando **NodeJs e PHP** no <a href="link da sua faculdade">por conta própria school</a>.
@@ -48,6 +48,9 @@
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
 
 <br/>
+<a href="https://github.com/josedoce">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Josedoce&theme=dracula&hide_langs_below=1" />
+</a>
 
 <a href="https://github.com/josedoce">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Josedoce&theme=blue-green&show_icons=true" />
