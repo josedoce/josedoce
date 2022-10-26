@@ -4,7 +4,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;Sobre mim </h3>
 
-- 🤔 &nbsp; Sou um desenvolvedor fullstack, tenho 22 anos e sou brasileiro.
+- 🤔 &nbsp; Sou um desenvolvedor fullstack, tenho 24 anos e sou brasileiro.
 - 🎓 &nbsp; Estudando **NodeJs e Java**</a>.
 - 💼 &nbsp; Tenho me ocupado projetando e desenvolvendo micro aplicações. :)
 - 🌱 &nbsp; Aprendendo mais sobre **nodejs e java**.
