@@ -12,21 +12,41 @@
 
 <h3> &nbsp;Minhas Skills </h3>
 
-**Aplicações e Dados**
+**Linguagens**
 
   ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=00599C)
+  ![CSharp](https://img.shields.io/badge/-CSharp-512BD4?style=flat&logo=csharp)
+  ![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=kotlin&logoColor=00599C)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
    ![Php](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php&logoColor=007396)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![BootStrap](https://img.shields.io/badge/-BootStrap-333333?style=flat&logo=Bootstrap&logoColor=1572B6)
-  ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=Laravel&logoColor=007396)
-  ![VueJs](https://img.shields.io/badge/-VueJS-333333?style=flat&logo=Vue.js) ![Vuex](https://img.shields.io/badge/-Vuex-333333?style=flat&logo=Vue.js) 
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)![ReduxSaga](https://img.shields.io/badge/-Redux_Saga-333333?style=flat&logo=Redux-Saga)
-  ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)![ReduxSaga](https://img.shields.io/badge/-Redux_Saga-333333?style=flat&logo=Redux-Saga)
-  ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
-  ![Sqlite](https://img.shields.io/badge/-sqlite-333333?style=flat&logo=sqlite)![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)![mongodb](https://img.shields.io/badge/-mongodb-333333?style=flat&logo=mongodb)![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=PostgreSQL)
+  
+  
+
+**Bancos de dados**
+
+![Sqlite](https://img.shields.io/badge/-sqlite-333333?style=flat&logo=sqlite)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![mongodb](https://img.shields.io/badge/-mongodb-333333?style=flat&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=PostgreSQL)
+
+**Frameworks**
+
+  ![Laravel](https://img.shields.io/badge/Laravel-PHP-333333?style=flat&logo=Laravel&logoColor=orange)
+  ![VueJs](https://img.shields.io/badge/Vue-JS-333333?style=flat&logo=Vue.js) 
+  ![React](https://img.shields.io/badge/React-JS-333333?style=flat&logo=react)
+  ![Android](https://img.shields.io/badge/Android-Kotlin-333333?style=flat&logo=android)
+  ![Jest](https://img.shields.io/badge/Jest-JS-333333?style=flat&logo=jest)
+  ![Android](https://img.shields.io/badge/SpringBoot-Java-333333?style=flat&logo=springboot)
+  ![Adonisjs](https://img.shields.io/badge/SpringBoot-JS-333333?style=flat&logo=adonisjs)
+  ![WPF](https://img.shields.io/badge/WPF-Csharp-333333?style=flat&logo=windowsterminal)
+
+**Basico**
+
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![BootStrap](https://img.shields.io/badge/-BootStrap-333333?style=flat&logo=Bootstrap&logoColor=1572B6)
+
 
 **Utilidades e Ambientes**
 
